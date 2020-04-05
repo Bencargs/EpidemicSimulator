@@ -1,0 +1,1374 @@
+[
+	{
+		"Id": 0,
+		"Location": "9, 739",
+		"Connections": [
+			17
+		]
+	},
+	{
+		"Id": 1,
+		"Location": "12, 453",
+		"Connections": [
+			13
+		]
+	},
+	{
+		"Id": 2,
+		"Location": "23, 202",
+		"Connections": [
+			6,
+			3
+		]
+	},
+	{
+		"Id": 3,
+		"Location": "23, 230",
+		"Connections": [
+			2,
+			7
+		]
+	},
+	{
+		"Id": 4,
+		"Location": "23, 336",
+		"Connections": [
+			12
+		]
+	},
+	{
+		"Id": 5,
+		"Location": "41, 55",
+		"Connections": [
+			10,
+			8
+		]
+	},
+	{
+		"Id": 6,
+		"Location": "49, 138",
+		"Connections": [
+			8,
+			2
+		]
+	},
+	{
+		"Id": 7,
+		"Location": "69, 302",
+		"Connections": [
+			3,
+			9
+		]
+	},
+	{
+		"Id": 8,
+		"Location": "72, 119",
+		"Connections": [
+			5,
+			6
+		]
+	},
+	{
+		"Id": 9,
+		"Location": "82, 308",
+		"Connections": [
+			7,
+			11
+		]
+	},
+	{
+		"Id": 10,
+		"Location": "87, 74",
+		"Connections": [
+			5,
+			18
+		]
+	},
+	{
+		"Id": 11,
+		"Location": "102, 308",
+		"Connections": [
+			9,
+			12
+		]
+	},
+	{
+		"Id": 12,
+		"Location": "102, 336",
+		"Connections": [
+			11,
+			4,
+			22,
+			13
+		]
+	},
+	{
+		"Id": 13,
+		"Location": "102, 451",
+		"Connections": [
+			12,
+			23,
+			1,
+			14
+		]
+	},
+	{
+		"Id": 14,
+		"Location": "102, 481",
+		"Connections": [
+			13,
+			15
+		]
+	},
+	{
+		"Id": 15,
+		"Location": "107, 495",
+		"Connections": [
+			14,
+			16
+		]
+	},
+	{
+		"Id": 16,
+		"Location": "107, 516",
+		"Connections": [
+			15,
+			19
+		]
+	},
+	{
+		"Id": 17,
+		"Location": "113, 717",
+		"Connections": [
+			24,
+			0
+		]
+	},
+	{
+		"Id": 18,
+		"Location": "122, 84",
+		"Connections": [
+			10,
+			21
+		]
+	},
+	{
+		"Id": 19,
+		"Location": "130, 525",
+		"Connections": [
+			16,
+			33
+		]
+	},
+	{
+		"Id": 20,
+		"Location": "131, 8",
+		"Connections": [
+			27
+		]
+	},
+	{
+		"Id": 21,
+		"Location": "140, 94",
+		"Connections": [
+			18,
+			25
+		]
+	},
+	{
+		"Id": 22,
+		"Location": "157, 337",
+		"Connections": [
+			35,
+			12
+		]
+	},
+	{
+		"Id": 23,
+		"Location": "158, 451",
+		"Connections": [
+			13,
+			26
+		]
+	},
+	{
+		"Id": 24,
+		"Location": "173, 705",
+		"Connections": [
+			29,
+			17
+		]
+	},
+	{
+		"Id": 25,
+		"Location": "176, 133",
+		"Connections": [
+			21,
+			28
+		]
+	},
+	{
+		"Id": 26,
+		"Location": "187, 445",
+		"Connections": [
+			23,
+			34
+		]
+	},
+	{
+		"Id": 27,
+		"Location": "190, 26",
+		"Connections": [
+			20,
+			36
+		]
+	},
+	{
+		"Id": 28,
+		"Location": "194, 145",
+		"Connections": [
+			25,
+			32
+		]
+	},
+	{
+		"Id": 29,
+		"Location": "202, 689",
+		"Connections": [
+			30,
+			40,
+			24
+		]
+	},
+	{
+		"Id": 30,
+		"Location": "203, 600",
+		"Connections": [
+			31,
+			29
+		]
+	},
+	{
+		"Id": 31,
+		"Location": "212, 582",
+		"Connections": [
+			41,
+			30
+		]
+	},
+	{
+		"Id": 32,
+		"Location": "213, 162",
+		"Connections": [
+			28,
+			44
+		]
+	},
+	{
+		"Id": 33,
+		"Location": "214, 526",
+		"Connections": [
+			19,
+			39
+		]
+	},
+	{
+		"Id": 34,
+		"Location": "216, 445",
+		"Connections": [
+			26,
+			37,
+			50
+		]
+	},
+	{
+		"Id": 35,
+		"Location": "217, 337",
+		"Connections": [
+			48,
+			22
+		]
+	},
+	{
+		"Id": 36,
+		"Location": "221, 56",
+		"Connections": [
+			27,
+			38
+		]
+	},
+	{
+		"Id": 37,
+		"Location": "231, 432",
+		"Connections": [
+			34,
+			52
+		]
+	},
+	{
+		"Id": 38,
+		"Location": "240, 164",
+		"Connections": [
+			36,
+			42
+		]
+	},
+	{
+		"Id": 39,
+		"Location": "245, 526",
+		"Connections": [
+			33,
+			41
+		]
+	},
+	{
+		"Id": 40,
+		"Location": "245, 682",
+		"Connections": [
+			29,
+			43
+		]
+	},
+	{
+		"Id": 41,
+		"Location": "246, 546",
+		"Connections": [
+			39,
+			31,
+			47
+		]
+	},
+	{
+		"Id": 42,
+		"Location": "261, 233",
+		"Connections": [
+			38,
+			45
+		]
+	},
+	{
+		"Id": 43,
+		"Location": "266, 667",
+		"Connections": [
+			40,
+			46
+		]
+	},
+	{
+		"Id": 44,
+		"Location": "277, 164",
+		"Connections": [
+			32,
+			58
+		]
+	},
+	{
+		"Id": 45,
+		"Location": "283, 259",
+		"Connections": [
+			42,
+			51
+		]
+	},
+	{
+		"Id": 46,
+		"Location": "313, 657",
+		"Connections": [
+			43,
+			49
+		]
+	},
+	{
+		"Id": 47,
+		"Location": "316, 476",
+		"Connections": [
+			41,
+			60
+		]
+	},
+	{
+		"Id": 48,
+		"Location": "317, 331",
+		"Connections": [
+			35,
+			51
+		]
+	},
+	{
+		"Id": 49,
+		"Location": "337, 638",
+		"Connections": [
+			46,
+			53
+		]
+	},
+	{
+		"Id": 50,
+		"Location": "343, 447",
+		"Connections": [
+			52,
+			34,
+			47
+		]
+	},
+	{
+		"Id": 51,
+		"Location": "350, 354",
+		"Connections": [
+			48,
+			68,
+			45,
+			57
+		]
+	},
+	{
+		"Id": 52,
+		"Location": "357, 432",
+		"Connections": [
+			55,
+			37,
+			96,
+			50
+		]
+	},
+	{
+		"Id": 53,
+		"Location": "361, 605",
+		"Connections": [
+			49,
+			56
+		]
+	},
+	{
+		"Id": 54,
+		"Location": "367, 13",
+		"Connections": [
+			61
+		]
+	},
+	{
+		"Id": 55,
+		"Location": "377, 414",
+		"Connections": [
+			62,
+			81,
+			52,
+			82
+		]
+	},
+	{
+		"Id": 56,
+		"Location": "379, 586",
+		"Connections": [
+			53,
+			65
+		]
+	},
+	{
+		"Id": 57,
+		"Location": "393, 397",
+		"Connections": [
+			51,
+			77
+		]
+	},
+	{
+		"Id": 58,
+		"Location": "394, 163",
+		"Connections": [
+			44,
+			59
+		]
+	},
+	{
+		"Id": 59,
+		"Location": "394, 203",
+		"Connections": [
+			58,
+			61,
+			64,
+			67
+		]
+	},
+	{
+		"Id": 60,
+		"Location": "394, 505",
+		"Connections": [
+			47,
+			161
+		]
+	},
+	{
+		"Id": 61,
+		"Location": "405, 134",
+		"Connections": [
+			54,
+			59,
+			70
+		]
+	},
+	{
+		"Id": 62,
+		"Location": "405, 378",
+		"Connections": [
+			68,
+			81,
+			55
+		]
+	},
+	{
+		"Id": 63,
+		"Location": "406, 545",
+		"Connections": [
+			74,
+			65
+		]
+	},
+	{
+		"Id": 64,
+		"Location": "408, 163",
+		"Connections": [
+			59,
+			70
+		]
+	},
+	{
+		"Id": 65,
+		"Location": "408, 575",
+		"Connections": [
+			63,
+			56,
+			72
+		]
+	},
+	{
+		"Id": 66,
+		"Location": "408, 625",
+		"Connections": [
+			69,
+			71
+		]
+	},
+	{
+		"Id": 67,
+		"Location": "409, 249",
+		"Connections": [
+			59,
+			68
+		]
+	},
+	{
+		"Id": 68,
+		"Location": "410, 354",
+		"Connections": [
+			67,
+			51,
+			85,
+			62
+		]
+	},
+	{
+		"Id": 69,
+		"Location": "411, 600",
+		"Connections": [
+			76,
+			66
+		]
+	},
+	{
+		"Id": 70,
+		"Location": "416, 160",
+		"Connections": [
+			61,
+			64,
+			84,
+			88
+		]
+	},
+	{
+		"Id": 71,
+		"Location": "419, 669",
+		"Connections": [
+			66,
+			75
+		]
+	},
+	{
+		"Id": 72,
+		"Location": "421, 575",
+		"Connections": [
+			65,
+			79
+		]
+	},
+	{
+		"Id": 73,
+		"Location": "424, 492",
+		"Connections": [
+			78,
+			76
+		]
+	},
+	{
+		"Id": 74,
+		"Location": "425, 519",
+		"Connections": [
+			80,
+			62
+		]
+	},
+	{
+		"Id": 75,
+		"Location": "427, 731",
+		"Connections": [
+			71
+		]
+	},
+	{
+		"Id": 76,
+		"Location": "432, 531",
+		"Connections": [
+			73,
+			69
+		]
+	},
+	{
+		"Id": 77,
+		"Location": "434, 422",
+		"Connections": [
+			57,
+			78
+		]
+	},
+	{
+		"Id": 78,
+		"Location": "435, 458",
+		"Connections": [
+			77,
+			73,
+			96
+		]
+	},
+	{
+		"Id": 79,
+		"Location": "435, 557",
+		"Connections": [
+			72,
+			83
+		]
+	},
+	{
+		"Id": 80,
+		"Location": "436, 515",
+		"Connections": [
+			74,
+			96
+		]
+	},
+	{
+		"Id": 81,
+		"Location": "448, 412",
+		"Connections": [
+			62,
+			55,
+			86,
+			87
+		]
+	},
+	{
+		"Id": 82,
+		"Location": "449, 444",
+		"Connections": [
+			55,
+			87,
+			92
+		]
+	},
+	{
+		"Id": 83,
+		"Location": "450, 546",
+		"Connections": [
+			79,
+			89
+		]
+	},
+	{
+		"Id": 84,
+		"Location": "453, 277",
+		"Connections": [
+			70,
+			85
+		]
+	},
+	{
+		"Id": 85,
+		"Location": "454, 354",
+		"Connections": [
+			68,
+			84,
+			86,
+			92
+		]
+	},
+	{
+		"Id": 86,
+		"Location": "454, 387",
+		"Connections": [
+			81,
+			85
+		]
+	},
+	{
+		"Id": 87,
+		"Location": "464, 415",
+		"Connections": [
+			81,
+			82,
+			97
+		]
+	},
+	{
+		"Id": 88,
+		"Location": "467, 206",
+		"Connections": [
+			70,
+			95
+		]
+	},
+	{
+		"Id": 89,
+		"Location": "470, 543",
+		"Connections": [
+			83,
+			90
+		]
+	},
+	{
+		"Id": 90,
+		"Location": "478, 523",
+		"Connections": [
+			89,
+			91,
+			161,
+			94
+		]
+	},
+	{
+		"Id": 91,
+		"Location": "483, 512",
+		"Connections": [
+			161,
+			90
+		]
+	},
+	{
+		"Id": 92,
+		"Location": "489, 369",
+		"Connections": [
+			85,
+			95,
+			82,
+			102
+		]
+	},
+	{
+		"Id": 93,
+		"Location": "497, 544",
+		"Connections": [
+			94,
+			98
+		]
+	},
+	{
+		"Id": 94,
+		"Location": "502, 531",
+		"Connections": [
+			90,
+			93,
+			96
+		]
+	},
+	{
+		"Id": 95,
+		"Location": "507, 247",
+		"Connections": [
+			88,
+			92,
+			99,
+			100
+		]
+	},
+	{
+		"Id": 96,
+		"Location": "518, 491",
+		"Connections": [
+			78,
+			102,
+			103,
+			94
+		]
+	},
+	{
+		"Id": 97,
+		"Location": "537, 448",
+		"Connections": [
+			87,
+			107
+		]
+	},
+	{
+		"Id": 98,
+		"Location": "539, 562",
+		"Connections": [
+			93,
+			111
+		]
+	},
+	{
+		"Id": 99,
+		"Location": "546, 212",
+		"Connections": [
+			95,
+			101
+		]
+	},
+	{
+		"Id": 100,
+		"Location": "551, 292",
+		"Connections": [
+			95,
+			109
+		]
+	},
+	{
+		"Id": 101,
+		"Location": "558, 188",
+		"Connections": [
+			99,
+			106
+		]
+	},
+	{
+		"Id": 102,
+		"Location": "559, 407",
+		"Connections": [
+			96,
+			107,
+			109,
+			110
+		]
+	},
+	{
+		"Id": 103,
+		"Location": "563, 508",
+		"Connections": [
+			96
+		]
+	},
+	{
+		"Id": 104,
+		"Location": "564, 65",
+		"Connections": [
+			105,
+			106
+		]
+	},
+	{
+		"Id": 105,
+		"Location": "565, 34",
+		"Connections": [
+			108,
+			104
+		]
+	},
+	{
+		"Id": 106,
+		"Location": "566, 106",
+		"Connections": [
+			104,
+			101
+		]
+	},
+	{
+		"Id": 107,
+		"Location": "575, 466",
+		"Connections": [
+			97,
+			117
+		]
+	},
+	{
+		"Id": 108,
+		"Location": "581, 5",
+		"Connections": [
+			105,
+			115
+		]
+	},
+	{
+		"Id": 109,
+		"Location": "597, 338",
+		"Connections": [
+			100,
+			102,
+			119,
+			127
+		]
+	},
+	{
+		"Id": 110,
+		"Location": "599, 429",
+		"Connections": [
+			119,
+			102,
+			107
+		]
+	},
+	{
+		"Id": 111,
+		"Location": "606, 587",
+		"Connections": [
+			112,
+			98,
+			114
+		]
+	},
+	{
+		"Id": 112,
+		"Location": "615, 563",
+		"Connections": [
+			116,
+			111
+		]
+	},
+	{
+		"Id": 113,
+		"Location": "619, 757",
+		"Connections": [
+			129
+		]
+	},
+	{
+		"Id": 114,
+		"Location": "621, 592",
+		"Connections": [
+			120,
+			111
+		]
+	},
+	{
+		"Id": 115,
+		"Location": "625, 49",
+		"Connections": [
+			108,
+			131
+		]
+	},
+	{
+		"Id": 116,
+		"Location": "625, 533",
+		"Connections": [
+			121,
+			112
+		]
+	},
+	{
+		"Id": 117,
+		"Location": "631, 452",
+		"Connections": [
+			107,
+			122,
+			164,
+			118
+		]
+	},
+	{
+		"Id": 118,
+		"Location": "631, 484",
+		"Connections": [
+			117,
+			121
+		]
+	},
+	{
+		"Id": 119,
+		"Location": "632, 372",
+		"Connections": [
+			109,
+			110,
+			124
+		]
+	},
+	{
+		"Id": 120,
+		"Location": "637, 587",
+		"Connections": [
+			125,
+			123
+		]
+	},
+	{
+		"Id": 121,
+		"Location": "638, 499",
+		"Connections": [
+			118,
+			116
+		]
+	},
+	{
+		"Id": 122,
+		"Location": "641, 407",
+		"Connections": [
+			124,
+			117
+		]
+	},
+	{
+		"Id": 123,
+		"Location": "645, 575",
+		"Connections": [
+			125,
+			120
+		]
+	},
+	{
+		"Id": 124,
+		"Location": "647, 364",
+		"Connections": [
+			119,
+			126,
+			130,
+			122
+		]
+	},
+	{
+		"Id": 125,
+		"Location": "661, 588",
+		"Connections": [
+			129,
+			123,
+			120
+		]
+	},
+	{
+		"Id": 126,
+		"Location": "662, 342",
+		"Connections": [
+			124,
+			128
+		]
+	},
+	{
+		"Id": 127,
+		"Location": "667, 255",
+		"Connections": [
+			109,
+			131
+		]
+	},
+	{
+		"Id": 128,
+		"Location": "696, 325",
+		"Connections": [
+			126,
+			142
+		]
+	},
+	{
+		"Id": 129,
+		"Location": "718, 625",
+		"Connections": [
+			138,
+			113,
+			132,
+			125,
+			133
+		]
+	},
+	{
+		"Id": 130,
+		"Location": "726, 314",
+		"Connections": [
+			147,
+			124,
+			152
+		]
+	},
+	{
+		"Id": 131,
+		"Location": "752, 176",
+		"Connections": [
+			127,
+			115,
+			135,
+			136
+		]
+	},
+	{
+		"Id": 132,
+		"Location": "768, 663",
+		"Connections": [
+			129,
+			134
+		]
+	},
+	{
+		"Id": 133,
+		"Location": "770, 649",
+		"Connections": [
+			129,
+			140
+		]
+	},
+	{
+		"Id": 134,
+		"Location": "783, 686",
+		"Connections": [
+			132,
+			137
+		]
+	},
+	{
+		"Id": 135,
+		"Location": "799, 117",
+		"Connections": [
+			143,
+			131
+		]
+	},
+	{
+		"Id": 136,
+		"Location": "806, 229",
+		"Connections": [
+			131,
+			142
+		]
+	},
+	{
+		"Id": 137,
+		"Location": "806, 738",
+		"Connections": [
+			134,
+			139
+		]
+	},
+	{
+		"Id": 138,
+		"Location": "807, 570",
+		"Connections": [
+			164,
+			129
+		]
+	},
+	{
+		"Id": 139,
+		"Location": "820, 765",
+		"Connections": [
+			137
+		]
+	},
+	{
+		"Id": 140,
+		"Location": "825, 717",
+		"Connections": [
+			133,
+			144
+		]
+	},
+	{
+		"Id": 141,
+		"Location": "828, 545",
+		"Connections": [
+			145,
+			148,
+			164
+		]
+	},
+	{
+		"Id": 142,
+		"Location": "831, 223",
+		"Connections": [
+			136,
+			147,
+			128
+		]
+	},
+	{
+		"Id": 143,
+		"Location": "834, 51",
+		"Connections": [
+			146,
+			135
+		]
+	},
+	{
+		"Id": 144,
+		"Location": "845, 749",
+		"Connections": [
+			140
+		]
+	},
+	{
+		"Id": 145,
+		"Location": "852, 521",
+		"Connections": [
+			151,
+			141
+		]
+	},
+	{
+		"Id": 146,
+		"Location": "869, 15",
+		"Connections": [
+			143,
+			154
+		]
+	},
+	{
+		"Id": 147,
+		"Location": "872, 264",
+		"Connections": [
+			142,
+			163,
+			149,
+			130
+		]
+	},
+	{
+		"Id": 148,
+		"Location": "877, 595",
+		"Connections": [
+			141,
+			150
+		]
+	},
+	{
+		"Id": 149,
+		"Location": "911, 304",
+		"Connections": [
+			147
+		]
+	},
+	{
+		"Id": 150,
+		"Location": "912, 631",
+		"Connections": [
+			148,
+			158
+		]
+	},
+	{
+		"Id": 151,
+		"Location": "922, 485",
+		"Connections": [
+			153,
+			145
+		]
+	},
+	{
+		"Id": 152,
+		"Location": "929, 341",
+		"Connections": [
+			130,
+			156
+		]
+	},
+	{
+		"Id": 153,
+		"Location": "941, 438",
+		"Connections": [
+			155,
+			151
+		]
+	},
+	{
+		"Id": 154,
+		"Location": "944, 6",
+		"Connections": [
+			146,
+			162
+		]
+	},
+	{
+		"Id": 155,
+		"Location": "964, 415",
+		"Connections": [
+			156,
+			153,
+			159,
+			160
+		]
+	},
+	{
+		"Id": 156,
+		"Location": "965, 379",
+		"Connections": [
+			152,
+			155
+		]
+	},
+	{
+		"Id": 157,
+		"Location": "991, 504",
+		"Connections": [
+			160
+		]
+	},
+	{
+		"Id": 158,
+		"Location": "995, 716",
+		"Connections": [
+			150
+		]
+	},
+	{
+		"Id": 159,
+		"Location": "998, 392",
+		"Connections": [
+			155
+		]
+	},
+	{
+		"Id": 160,
+		"Location": "1017, 471",
+		"Connections": [
+			155,
+			157
+		]
+	},
+	{
+		"Id": 161,
+		"Location": "430, 492",
+		"Connections": [
+			66,
+			91,
+			90
+		]
+	}
+	,
+	{
+		"Id": 162,
+		"Location": "970, 94",
+		"Connections": [
+			154,
+			163
+		]
+	},
+	{
+		"Id": 163,
+		"Location": "993, 222",
+		"Connections": [
+			162,
+			147
+		]
+	},
+	{
+		"Id": 164,
+		"Location": "732, 453",
+		"Connections": [
+			141,
+			117,
+			138
+		]
+	}
+]
