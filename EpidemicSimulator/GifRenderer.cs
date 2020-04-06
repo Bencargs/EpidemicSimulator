@@ -6,7 +6,7 @@ using System.Windows.Media.Imaging;
 
 namespace EpidemicSimulator
 {
-    public class GifRenderer : IDisposable
+    public class GifRenderer : IRenderer, IDisposable
     {
         [System.Runtime.InteropServices.DllImport("gdi32.dll")]
         public static extern bool DeleteObject(IntPtr hObject);

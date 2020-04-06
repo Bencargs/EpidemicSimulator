@@ -37,6 +37,10 @@
       <HintPath>packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="SharpAvi, Version=2.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\SharpAvi.2.1.2\lib\net45\SharpAvi.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -51,7 +55,9 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AviRenderer.cs" />
     <Compile Include="GifRenderer.cs" />
+    <Compile Include="IRenderer.cs" />
     <Compile Include="Models\Disease.cs" />
     <Compile Include="Models\MapNode.cs" />
     <Compile Include="Models\Person.cs" />

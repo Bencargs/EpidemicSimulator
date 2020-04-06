@@ -10,7 +10,7 @@ namespace EpidemicSimulator
         [STAThread]
         static void Main()
         {
-            using (var renderer = new GifRenderer())
+            using (var renderer = new AviRenderer())
             using (var simulator = new Simulator())
             {
                 simulator.RenderUpdated += renderer.OnRenderUpdated;
