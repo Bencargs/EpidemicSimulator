@@ -74,23 +74,23 @@ namespace EpidemicSimulator
 			TrafficNode current = null;
 			do
 			{
-				var previous = current;
 				current = potentials.Dequeue();
-				if (searched.Contains(current))
-					continue;
+				var children = current.Connections.Select(i => _trafficNodes[i]);
+				foreach (var c in children)
+				{
+					if (searched.Contains(c))
+						continue;
 
-				current.Previous = previous;
-				searched.Add(current);
-
-				var connections = current.Connections.Select(i => _trafficNodes[i]);
-				foreach (var next in connections)
-					potentials.Enqueue(next);
+					c.Previous = current;
+					searched.Add(c);
+					potentials.Enqueue(c);
+				}
 			}
 			while (potentials.Any() && current != end);
 
 			// backwards iterate to find the shortest path
 			var path = new List<MapNode>(new[] { current });
-			while (current.Previous != null)
+			while (current.Previous != null && !path.Contains(current.Previous))
 			{
 				path.Insert(0, current.Previous);
 				current = current.Previous;
